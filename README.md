@@ -15,18 +15,18 @@ Este é o Terceiro Desafio de Back-end, feito em dupla, na Cubos Academy.
 
 ### 🛠️ Meu papel foi construir uma RESTful API que permita:
 
-📌 Cadastrar Usuário
-📌 Fazer Login
-📌 Detalhar Perfil do Usuário Logado
-📌 Editar Perfil do Usuário Logado
-📌 Listar categorias
-📌 Listar transações
-📌 Detalhar transação
-📌 Cadastrar transação
-📌 Editar transação
-📌 Remover transação
-📌 Obter extrato de transações
-📍 [Extra] Filtrar transações por categoria
+- 📌 Cadastrar Usuário
+- 📌 Fazer Login
+- 📌 Detalhar Perfil do Usuário Logado
+- 📌 Editar Perfil do Usuário Logado
+- 📌 Listar categorias
+- 📌 Listar transações
+- 📌 Detalhar transação
+- 📌 Cadastrar transação
+- 📌 Editar transação
+- 📌 Remover transação
+- 📌 Obter extrato de transações
+- 📍 [Extra] Filtrar transações por categoria
 
 ### 🖥️ Tecnologias Utilizadas 
 
